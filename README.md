@@ -45,4 +45,4 @@ $ python3 create_tables.py
 $ python3 etl.py
 ```
 #### 3. Result
-![](https://https://github.com/zderev/udacity_data_modeling/edit/master/1.jpg)
+![](https://github.com/zderev/udacity_data_modeling/blob/master/result.jpg?raw=true)
