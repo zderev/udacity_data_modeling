@@ -44,3 +44,5 @@ $ python3 create_tables.py
 ```sh
 $ python3 etl.py
 ```
+#### 3. Result
+![](https://https://github.com/zderev/udacity_data_modeling/edit/master/1.jpg)
